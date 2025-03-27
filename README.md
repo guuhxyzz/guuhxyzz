@@ -28,8 +28,8 @@
 ##
 <div align="center">
 <a href="https://github.com/guuhxyzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuhxyzz&layout=compact&show_icons=true&theme=github&include_all_commits=true&count_private=true&"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuhxyzz&layout=compact&theme=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuhxyzz&theme=github&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuhxyzz&theme=github&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 ---
