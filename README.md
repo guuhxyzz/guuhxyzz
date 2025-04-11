@@ -16,6 +16,10 @@
 <div style="display: inline_block" align="center">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+          
 </div>
 <br>
 <div align="center">
@@ -28,7 +32,7 @@
 ##
 <div align="center">
 <a href="https://github.com/guuhxyzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuhxyzz&theme=github&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuhxyzz&theme=github&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuhxyzz&theme=github&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
